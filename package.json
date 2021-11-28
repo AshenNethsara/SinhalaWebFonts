@@ -1,0 +1,27 @@
+{
+  "name": "sinhalawebfonts",
+  "version": "1.1.0",
+  "description": "Sinhala WebFonts Collection. Associated with koombiwebfont project.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified...\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koombitool/SinhalaWebFonts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/koombitool/SinhalaWebFonts/issues"
+  },
+  "homepage": "https://koombitool.github.io/SinhalaWebFonts",
+  "keywords": [
+    "sinhala-web-font",
+    "sinhalawebfonts",
+    "sinhala",
+    "ascill",
+    "unicode",
+    "srilanka"
+  ],
+  "author": "ashennethsara",
+  "license": "GPL-3.0-or-later"
+}
